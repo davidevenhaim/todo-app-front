@@ -1,0 +1,38 @@
+{
+  "welcome": "ברוכים הבאים",
+  "todo": {
+    "title": "מטרות",
+    "addTodo": "הוספת מטרה",
+    "yourTodos": "המטרות שלך"
+  },
+  "user": {
+    "userInfo": "User Information",
+    "logout": "Logout"
+  },
+  "responseMsg": {
+    "userNotFound": "User Not Found",
+    "incorrectDetails": "Incorrect Details",
+    "sessionRemoved": "Session Removed",
+    "userExists": "User Exists"
+  },
+  "forms": {
+    "username": "Username",
+    "name": "Name",
+    "password": "Password",
+    "task": "Task"
+  },
+  "buttons": {
+    "login": "Login",
+    "register": "Register",
+    "create": "Create",
+    "createTodo": "Create new Todo",
+    "submit": "Submit"
+  },
+  "labels": {
+    "haveAccount": "Have an account?",
+    "noAccount": "Doesn't have an account yet?",
+    "clickToLogin": "Click To Login",
+    "clickToRegister": "Click To Register",
+    "createTodo": "Create new Todo"
+  }
+}

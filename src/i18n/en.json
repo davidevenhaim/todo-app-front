@@ -1,0 +1,55 @@
+{
+  "welcome": "Welcome",
+  "todo": {
+    "title": "Todo",
+    "addTodo": "Add Todo",
+    "yourTodos": "Your Todos"
+  },
+  "user": {
+    "userInfo": "User Information",
+    "logout": "Logout"
+  },
+  "responseMsg": {
+    "userNotFound": "User Not Found",
+    "incorrectDetails": "Incorrect Details",
+    "sessionRemoved": "Session Removed",
+    "userExists": "User Exists"
+  },
+  "forms": {
+    "username": "Username",
+    "name": "Name",
+    "password": "Password",
+    "task": "Task",
+    "isCompleted": "Is completed"
+  },
+  "buttons": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "create": "Create",
+    "createTodo": "Create new Todo",
+    "submit": "Submit",
+    "save": "Save",
+    "delete": "Delete"
+  },
+  "labels": {
+    "haveAccount": "Have an account?",
+    "noAccount": "Doesn't have an account yet?",
+    "clickToLogin": "Click To Login",
+    "clickToRegister": "Click To Register",
+    "createTodo": "Create new Todo",
+    "todosCurrently": "Todos",
+    "todoCount": "You currently have",
+    "currentUsername": "Your Username:",
+    "hi": "Hey!",
+    "hideCompleted": "Hide Completed Tasks",
+    "showCompleted": "Showing Completed Tasks Only",
+    "showAllTasks": "Showing All Tasks",
+    "completed": "Completed"
+  },
+  "alerts": {
+    "deleted": "Deleted!",
+    "created": "Created Sucesfully",
+    "edited": "Edited Sucesfully"
+  }
+}
